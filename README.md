@@ -1,4 +1,5 @@
 # Mental-Health-in-the-Tech-Industry.
+The goal of this analysis is to do EDA and practice Matplotlib, Seaborn and SQL. 
 ## Dataset
 Dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry).
 
